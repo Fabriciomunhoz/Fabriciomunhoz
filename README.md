@@ -5,6 +5,7 @@
 - 🎮 Hi, my name is Faluckes and I'm a C# developer.
 - ✌🏽 i'm He/Him.
 - 👍🏽 I'm 17 years old. 
+- ✉ Contact me: FaluckesDev@protonmail.com
 
 <div align="center">
   <a href="https://github.com/Faluckes">
