@@ -7,6 +7,8 @@
 - 👍🏽 I'm 19 years old. 
 - ✉ Contact me: FaluckesDev@protonmail.com
 
+##
+
 <div align="center">
   <a href="https://github.com/Faluckes">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Faluckes&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
