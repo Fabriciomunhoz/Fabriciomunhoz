@@ -1,10 +1,13 @@
 ##
+
 Welcome to my project repository!
+
 ##
 
 - Hi, my name is Faluckes and I'm a Back-End Developer.
-- i'm He/Him.
-- I'm 19 years old. 
+  
+- I'm 19 years old.
+  
 - Contact me: FaluckesDev@protonmail.com
 
 ##
