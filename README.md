@@ -1,7 +1,5 @@
-
 ##
 Welcome to my project repository!
-
 ##
 
 - 🎮 Hi, my name is Faluckes and I'm a Back-End Developer.
