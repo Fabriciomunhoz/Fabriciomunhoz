@@ -24,7 +24,7 @@
   <img align="center" alt="Faluk-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Faluk-DotNetCore" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Faluk-Vue" height="40" width="50" src="https://icongr.am/devicon/vuejs-original.svg">
+  <img align="center" alt="Faluk-Python" height="40" width="50" src="https://icongr.am/devicon/python-original.svg">
 </div>
   
 ##  
