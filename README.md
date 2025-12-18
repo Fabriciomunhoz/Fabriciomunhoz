@@ -1,8 +1,8 @@
 ##
 
-- Hi, my name is Fabricio and I'm a Back-End Developer.
+- Hi, my name is Fabricio and I'm a Full-Stack Developer.
   
-- I'm 20 years old.
+- I'm 21 years old.
   
 - Contact me: fabriciombadeluk@gmail.com
 
