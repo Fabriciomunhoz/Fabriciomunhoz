@@ -20,6 +20,7 @@ Hoje trabalho construindo portais de integração, APIs e robôs que tiram traba
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AutomationEdge](https://img.shields.io/badge/AutomationEdge-0B5CAB?style=for-the-badge)
 
 ### 📈 Trajetória
 - **Grupo Servopa** — Estagiário de TI → Dev Júnior → **Dev Pleno** (2024–hoje)
